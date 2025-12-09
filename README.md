@@ -10,4 +10,4 @@ Usamos o dataset do livro Applied Predictive Modeling (Kuhn & Johnson), que cont
 
 - 1 alvo: valor experimental de solubilidade 
 
-Códigos usados estão na pasta src, base teóricas e explicações aprofundadas se encontão na pasta notebooks.
+Códigos usados estão na pasta src, base teóricas e explicações aprofundadas se encontram na pasta notebooks.

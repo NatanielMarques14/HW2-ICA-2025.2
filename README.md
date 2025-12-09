@@ -1,5 +1,5 @@
 Este repositório contém todo o código, base teórica e o artigo final do nosso trabalho de regressão aplicada ao conjunto de solubilidade apresentado no curso de Inteligência Computacional Aplicada (ICA).
-O objetivo geral foi explorar diferentes modelos de regressão, desde o OLS simples até métodos penalizados para prever a solubilidade de compostos químicos a partir de descritores moleculares.
+O objetivo geral foi explorar diferentes modelos de regressão, desde o OLS simples, passando por métodos penalizados até redes neurais para prever a solubilidade de compostos químicos a partir de descritores moleculares.
 Usamos o datase do livro Applied Predictive Modeling (Kuhn & Johnson), que contém 1.267 compostos, cada um descrito por:
 
 - 208 fingerprints binários (presença/ausência de subestruturas químicas)
